@@ -1,3 +1,3 @@
-##  Simple deployment of three Public IP's 
+##  Simple deployment of three Public IPs 
 
-Deploy three Public IP's with unique names (Test, Prod & Dev) to Azure. 
+Deploy three Public IPs with unique names (Test, Prod & Dev) to Azure. 
