@@ -33,8 +33,6 @@ locals {
   location = "east us"
   rgname = "trial-rg"
   vnetname = "vnet1"
-  storage_acct = "geesta1a"
-  container = "container1a"
   pip-name = "pip-vm1"
   nic = "vm-nic"
   vm-name = "vm1"
