@@ -1,2 +1,2 @@
-admin_username = "geenice"
-admin_password = "G9icenaija@4"
+admin_username = "admin"
+admin_password = "Password@123"
