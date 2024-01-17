@@ -17,5 +17,5 @@ Ensure you have the following tools and accounts set up:
 
 - [Terraform](https://www.terraform.io/) installed locally
 - An [Azure subscription](https://azure.microsoft.com/en-us/free/) and the Azure CLI configured
-- A storage account for storing Terraform state (Optional but recommended)
+
 
