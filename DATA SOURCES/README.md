@@ -1,3 +1,21 @@
-## Terraform Azure Infrastructure Project
+# Azure Terraform Web App Deployment
 
-This Terraform project demonstrates the creation of an Azure infrastructure composed of a virtual network, a simple virtual machine, 2 virtual machines allocated to an availability set, and a storage account with a blob file uploaded to the container. The project utilizes Terraform's data blocks to unify different Terraform files for a cohesive deployment.
+This Terraform project automates the deployment of a simple web application on Microsoft Azure, leveraging Azure Storage and Virtual Machines.
+
+## Overview
+
+The project includes Terraform scripts to set up the following components:
+
+- Azure Resource Group
+- Azure Storage Account for static content
+- Azure Virtual Machine with IIS installed
+- Custom Script Extensions to configure IIS and upload a web application
+
+## Prerequisites
+
+Ensure you have the following tools and accounts set up:
+
+- [Terraform](https://www.terraform.io/) installed locally
+- An [Azure subscription](https://azure.microsoft.com/en-us/free/) and the Azure CLI configured
+- A storage account for storing Terraform state (Optional but recommended)
+
