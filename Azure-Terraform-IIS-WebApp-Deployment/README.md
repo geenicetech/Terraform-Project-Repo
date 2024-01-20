@@ -1,6 +1,6 @@
 # Azure Terraform Web App Deployment
 
-This Terraform project automates the deployment of a simple web application on Microsoft Azure, leveraging Azure Storage and Virtual Machines.
+A project to deploy a windows server with IIS install and a webapp to display static content with the use of Terraform
 
 ## Overview
 
